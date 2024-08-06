@@ -2,7 +2,7 @@
 
 <h1 align="center">Labs .NET 2024 — UTN FRRo</h1>
 
-### 👾 Resoluciones de laboratorios utilizados en la asignatura ```Tecnologías de Desarrollo de Software IDE```
+### 👾 Resoluciones Labs de la asignatura ```Tecnologías de Desarrollo de Software IDE```
 
 ```csharp
 var Labs = new
